@@ -8,11 +8,6 @@ output:
 ---
 
 
-```{r setup, include=FALSE}
-# Set global options
-knitr::opts_chunk$set(warning=FALSE, message=FALSE)
-```
-
 # Introduction
 Kaggle house prices competition
 
