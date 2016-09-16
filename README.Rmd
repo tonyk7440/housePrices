@@ -9,7 +9,7 @@ output:
 
 
 # Introduction
-Kaggle house prices competition
+Kaggle [house prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition
 
 
 ## Project Structure
