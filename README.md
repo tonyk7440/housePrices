@@ -1,2 +1,2 @@
 # housePrices
-Kaggle house prices house prices competition
+Kaggle house prices competition
