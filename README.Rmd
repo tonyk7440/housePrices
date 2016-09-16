@@ -1,5 +1,6 @@
 ---
 title: "Kaggle house prices competition"
+author: "Anthony Kenny"
 output: 
   html_document:
     toc: true
